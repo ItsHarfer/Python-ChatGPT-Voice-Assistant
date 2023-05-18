@@ -14,7 +14,7 @@ A simple ChatGPT voice assistant using OpenAI API and Gradio to provide a user i
 
 ### Installation
 
-### 1. Clone the repository:
+### 1. Open your terminal and clone the repository with this command:
 
    ```bash
    git clone https://github.com/your-github-username/chatgpt-voice-assistant.git
